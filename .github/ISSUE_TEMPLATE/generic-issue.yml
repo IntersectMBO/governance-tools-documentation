@@ -1,0 +1,34 @@
+name: 💡 Idea or change request
+description: Idea or change request
+title: "💡 "
+labels: [ "💡 Idea" ]
+projects: [ ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🌟 **Thank you for contributing to governance tools documentation!**
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting a new issue consider [starting a new discussion](https://github.com/IntersectMBO/drep-code-of-conduct/discussions/new?category=ideas).
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What?
+      description: What needs to change?
+      placeholder: |
+        Describe what you want to change or add
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: Why do we want/need to change or add this?
+      placeholder: |
+        Give context and describe the problem the change/addition is solving
+    validations:
+      required: true
