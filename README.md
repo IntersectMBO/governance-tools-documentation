@@ -9,7 +9,7 @@ This incudes user guides for GovTool and the Constitutional Committee Portal.
 
 ## 📍 Navigation
 
-- []()
+- [Strategies](./strategies/)
 
 
 ## 🤝 Contributing
