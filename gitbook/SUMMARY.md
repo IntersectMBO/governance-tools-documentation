@@ -3,7 +3,6 @@
 ## ABOUT
 
 * [What is GovTool?](README.md)
-* [Testing GovTool](about/testing-govtool.md)
 * [GovTool feature roadmap](about/govtool-feature-roadmap.md)
 * [Bootstrapping phase](about/bootstrapping-phase.md)
 

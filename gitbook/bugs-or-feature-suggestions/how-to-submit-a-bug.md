@@ -1,6 +1,6 @@
 # How to submit a bug
 
-First check against list of [Known Issues](../about/testing-govtool.md#known-issues).
+First check against list of [Known Issues](broken-reference).
 
 If you find a bug click on the 'feedback' button at the bottom of the your screen, select 'bug' and follow the guide.
 
