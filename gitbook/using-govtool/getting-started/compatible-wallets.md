@@ -14,24 +14,40 @@ layout:
 
 # Compatible wallets
 
-| Wallet                              | Download link                                                                                                                    | Status                                                          |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Lace** _SanchoNet Version_        | [visit site](https://chromewebstore.google.com/detail/lace-sanchonet/djcdfchkaijggdjokfomholkalbffgil?hl=en)                     | <mark style="color:red;background-color:red;">Offline</mark>    |
-| **Yoroi** _SanchoNet Version_       | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related)                   | <mark style="color:red;background-color:red;">Offline</mark>    |
-| **Eternl** Beta                     | [visit site](https://chromewebstore.google.com/detail/eternl-beta/aafgiaaomjbkmgainbdgjpcndnodkajp)                              | <mark style="color:green;background-color:green;">Online</mark> |
-| **GeroWallet** _SanchoNet Version_  | [download here](https://79567a3d-9c2c-4d1d-a809-b303caa25d91.usrfiles.com/archives/79567a\_a336a5e962024aae82c81ce2de1b56cb.zip) | <mark style="color:red;background-color:red;">Offline</mark>    |
-| **Nufi Wallet** _SanchoNet Version_ | [download here](https://assets.nu.fi/extension/sanchonet/nufi-cwe-sanchonet-latest.zip)                                          | <mark style="color:green;background-color:green;">Online</mark> |
-| **demos wallet** (hacked nami)      | [download here](https://drive.google.com/file/d/18-z4nILDZVmg7SL9GIebfwo8ZZM-qgAS/view?usp=sharing)                              | <mark style="color:green;background-color:green;">Online</mark> |
-| Flint                               | _Coming Soon_                                                                                                                    | _In progress_                                                   |
-| Vespr                               | _Coming Soon_                                                                                                                    | _In progress_                                                   |
-| Ledger                              | _Coming Soon_                                                                                                                    | _In progress_                                                   |
-| Trezor                              | _Coming Soon_                                                                                                                    | _In progress_                                                   |
-
-Make sure your network is set to **Preview**
-
 {% hint style="warning" %}
-Only some wallets are currently compatible with GovTool. Other Cardano wallets may not work. For best results, use one of the above wallets.
+GovTool requires Cardano wallets to have upgraded to CIP-95 to be able to connect and share governance data, thus some existing Cardano wallets might not work.
 {% endhint %}
 
-[\
-](https://docs.sanchogov.tools/how-to-use-govtool/getting-started)\
+### SanchoNet Compatible Wallets (`sanchogov.tools`)
+
+Wallets which are working with GovTool  on SanchoNet.
+
+| Wallet                       | Download link                                                                                                  | Status                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Eternl**                   | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                 | <mark style="color:green;background-color:green;">Online</mark> |
+| **Nufi** _SanchoNet Version_ | [download here](https://assets.nu.fi/extension/sanchonet/nufi-cwe-sanchonet-latest.zip)                        | <mark style="color:green;background-color:green;">Online</mark> |
+| **Yoroi (Nightly)**          | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related) | <mark style="color:green;background-color:green;">Online</mark> |
+
+### Preview Network Compatible Wallets (`preview.gov.tools`)
+
+Wallets which are working with GovTool on Preview testnet.
+
+| Wallet              | Download link                                                                                                  | Status                                                                 |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Eternl**          | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                 | <mark style="color:green;background-color:green;">Online</mark>        |
+| **Lace**            | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                   | <mark style="color:green;background-color:green;">Online</mark>        |
+| **Yoroi (Nightly)** | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related) | <mark style="color:orange;background-color:orange;">In Progress</mark> |
+
+### [ ](https://docs.sanchogov.tools/how-to-use-govtool/getting-started)Mainnet Compatible Wallets (`gov.tools`)
+
+Wallets which are working with GovTool on Mainnet.
+
+| Wallet         | Download link                                                                                                 | Status                                                                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eternl**     | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                  |
+| **Lace**       | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                  | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                  |
+| **GeroWallet** | [visit site](https://chromewebstore.google.com/detail/gerowallet/bgpipimickeadkjlklgciifhnalhdjhe)            | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
+| **Typhon**     | [visit site](https://chromewebstore.google.com/detail/typhon-wallet/kfdniefadaanbjodldohaedphafoffoh)         | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
+| **Vespr**      | [visit site](https://chromewebstore.google.com/detail/vespr-wallet/bedogdpgdnifilpgeianmmdabklhfkcn)          | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
+| **Yoroi**      | [visit site](https://chromewebstore.google.com/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb)                 | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
+| **Flint**      | N/A (see [announcement](https://x.com/FlintWallet/status/1828184961960308832?t=0eIBBMnAY5feMTOlojFlSg\&s=19)) | <mark style="color:red;background-color:red;">Will not progress</mark> (see [announcement](https://x.com/FlintWallet/status/1828184961960308832?t=0eIBBMnAY5feMTOlojFlSg\&s=19)) |
