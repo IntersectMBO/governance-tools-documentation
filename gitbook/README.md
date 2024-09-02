@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/voltaire splash screen (1).png
-coverY: 0
+cover: .gitbook/assets/Cover (1).png
+coverY: 21
 layout:
   cover:
     visible: true
