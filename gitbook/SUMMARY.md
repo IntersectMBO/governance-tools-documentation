@@ -4,6 +4,7 @@
 
 * [Core Governance Tools](README.md)
 * [Access the Core Governance Tools](about/access-the-core-governance-tools.md)
+* [🚨 Known Issues](about/known-issues.md)
 * [What is Cardano GovTool?](about/what-is-cardano-govtool/README.md)
   * [GovTool Functions](about/what-is-cardano-govtool/govtool-functions/README.md)
     * [Direct Voting](about/what-is-cardano-govtool/govtool-functions/direct-voting.md)
@@ -36,10 +37,6 @@
 * [Getting started](using-govtool/getting-started/README.md)
   * [Connect your wallet to GovTool](using-govtool/getting-started/connect-your-wallet-to-govtool.md)
   * [The GovTool Dashboard](using-govtool/getting-started/the-govtool-dashboard.md)
-
-## using constitutional committee portal
-
-* [Page](using-constitutional-committee-portal/page.md)
 
 ***
 
