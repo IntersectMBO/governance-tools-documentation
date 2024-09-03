@@ -2,4 +2,4 @@
 
 [Delegated Representatives (DReps) ](what-is-a-drep.md)are like 'parlimentary representatives' in the Governance system. DReps can have other ADA holders to delegate their voting power to them, which allows DReps to vote by proxy using the accumulated Voting Power of all their delegators. \
 \
-Any ADA holder can become a DRep. They simply need to register on GovTool (or other platform). [Read about how to become a DRep](../using-govtool/govtool-functions/dreps/register-as-a-drep.md)
+Any ADA holder can become a DRep. They simply need to register on GovTool (or other platform). [Read about how to become a DRep](../about/what-is-cardano-govtool/govtool-functions/dreps/register-as-a-drep.md)

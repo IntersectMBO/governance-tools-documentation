@@ -11,7 +11,7 @@ To be able to vote, you will need to connect your wallet to GovTool, and registe
 1.  **Dashboard** Click on the "View and vote" button to see on-chain Governance Actions. _(You can also use the 'Governance actions' tab in sidebar)_\
 
 
-    <figure><img src="../../../../.gitbook/assets/hjkhkjhk.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/hjkhkjhk.png" alt=""><figcaption></figcaption></figure>
 2.  **Governance Actions Page**
 
     1. Search box, type any text Governance Action ID
@@ -23,7 +23,7 @@ To be able to vote, you will need to connect your wallet to GovTool, and registe
 
     <div align="left">
 
-    <figure><img src="../../../../.gitbook/assets/Artboard xx.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/Artboard xx.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 3.  **Governance Action Detail Page**
@@ -43,20 +43,20 @@ To be able to vote, you will need to connect your wallet to GovTool, and registe
     \
 
 
-    <figure><img src="../../../../.gitbook/assets/Artboard p.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/Artboard p.png" alt=""><figcaption></figcaption></figure>
 4.  **Voting**\
     Choose "Yes", "No", or "Abstain"&#x20;
 
-    <figure><img src="../../../../.gitbook/assets/Artboard Copy 3.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/Artboard Copy 3.png" alt=""><figcaption></figcaption></figure>
 5.  **Wallet Confirmation** \
     You will be asked to sign and confirm the transaction in your wallet.&#x20;
 
-    <figure><img src="../../../../.gitbook/assets/Artboard Copy 4.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/Artboard Copy 4.png" alt=""><figcaption></figcaption></figure>
 6.  **In-progress state**\
     Your Vote transaction will be submitted to on-chain. The transaction could take a few seconds or minutes to be fully completed. An in-progress state will be shown to keep track of progresses.\
 
 
-    <figure><img src="../../../../.gitbook/assets/FArtboard Copy 9.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/FArtboard Copy 9.png" alt=""><figcaption></figcaption></figure>
 7.  **Vote fully submitted**\
     Once the transaction it's completed, the page will refresh automatically. You have now voted on this Governance Action.\
 

@@ -20,7 +20,7 @@ Every ADA holder has an amount of Voting Power equal to the amount of Lovelace t
 
 Voting Power can be used in several ways:
 
-* Delegate your Voting Power to a DRep.[ How to delegate your Voting Power](../using-govtool/govtool-functions/delegating/delegate-to-a-drep.md)
-* Delegate your Voting Power to "[Abstain](../using-govtool/govtool-functions/delegating/abstain-from-every-vote.md)" or "[Signal No Confidence](../using-govtool/govtool-functions/delegating/signal-no-confidence-on-every-vote.md)". These effectively instruct GovTool to cast these votes on every Governance Action on your behalf. These options work like DReps, and they apply to every Governance Action that comes up for a vote.
-* Become a Direct Voter and Vote on Governance Actions by yourself. [How to become a Direct Voter](../using-govtool/govtool-functions/direct-voting.md)
-* Become a DRep and Vote on Governance Actions with your own Voting Power and Voting Power shared with you by other users. [How to become a DRep](../using-govtool/govtool-functions/dreps/register-as-a-drep.md)
+* Delegate your Voting Power to a DRep.[ How to delegate your Voting Power](../about/what-is-cardano-govtool/govtool-functions/delegating/delegate-to-a-drep.md)
+* Delegate your Voting Power to "[Abstain](../about/what-is-cardano-govtool/govtool-functions/delegating/abstain-from-every-vote.md)" or "[Signal No Confidence](../about/what-is-cardano-govtool/govtool-functions/delegating/signal-no-confidence-on-every-vote.md)". These effectively instruct GovTool to cast these votes on every Governance Action on your behalf. These options work like DReps, and they apply to every Governance Action that comes up for a vote.
+* Become a Direct Voter and Vote on Governance Actions by yourself. [How to become a Direct Voter](../about/what-is-cardano-govtool/govtool-functions/direct-voting.md)
+* Become a DRep and Vote on Governance Actions with your own Voting Power and Voting Power shared with you by other users. [How to become a DRep](../about/what-is-cardano-govtool/govtool-functions/dreps/register-as-a-drep.md)

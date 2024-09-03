@@ -10,4 +10,4 @@ DReps are defined by [CIP-1694](https://www.1694.io/). They can:
 * Review and submit votes on active Governance Actions
 * Accept delegated Voting Power from any ADA holder
 
-When a DRep votes on a Governance Action, they vote with all the [Voting Power](../../../faqs/what-is-voting-power.md) that is delegated to them.
+When a DRep votes on a Governance Action, they vote with all the [Voting Power](../../../../faqs/what-is-voting-power.md) that is delegated to them.

@@ -2,7 +2,7 @@
 
 ### What is the bootstrapping phase?
 
-Bootstrapping is a temporary state of GovTool which is a transition phase which will end in full  governance. Some features of Governance and GovTool are intentionally not functional.
+Bootstrapping is a temporary state of governance which is a temporary transition phase (as described in [CIP-1694](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md#bootstrapping-phase))  will end in full  governance. Some features of Governance and GovTool are intentionally not functional.
 
 ### What are the implications of bootstrapping on GovTool?
 

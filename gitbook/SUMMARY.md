@@ -2,32 +2,44 @@
 
 ## ABOUT
 
-* [What is GovTool?](README.md)
-* [GovTool feature roadmap](about/govtool-feature-roadmap.md)
-* [Bootstrapping phase](about/bootstrapping-phase.md)
+* [Core Governance Tools](README.md)
+* [Access the Core Governance Tools](about/access-the-core-governance-tools.md)
+* [What is Cardano GovTool?](about/what-is-cardano-govtool/README.md)
+  * [GovTool Functions](about/what-is-cardano-govtool/govtool-functions/README.md)
+    * [Direct Voting](about/what-is-cardano-govtool/govtool-functions/direct-voting.md)
+    * [DReps](about/what-is-cardano-govtool/govtool-functions/dreps/README.md)
+      * [Register as a DRep](about/what-is-cardano-govtool/govtool-functions/dreps/register-as-a-drep.md)
+      * [Retire as a DRep](about/what-is-cardano-govtool/govtool-functions/dreps/retire-as-a-drep.md)
+      * [DRep error conditions](about/what-is-cardano-govtool/govtool-functions/dreps/drep-error-conditions.md)
+    * [Delegating](about/what-is-cardano-govtool/govtool-functions/delegating/README.md)
+      * [Delegate to a DRep](about/what-is-cardano-govtool/govtool-functions/delegating/delegate-to-a-drep.md)
+      * [Abstain from Every Vote](about/what-is-cardano-govtool/govtool-functions/delegating/abstain-from-every-vote.md)
+      * [Signal "No Confidence" on Every Vote](about/what-is-cardano-govtool/govtool-functions/delegating/signal-no-confidence-on-every-vote.md)
+    * [Governance Actions](about/what-is-cardano-govtool/govtool-functions/governance-actions/README.md)
+      * [View Governance Actions](about/what-is-cardano-govtool/govtool-functions/governance-actions/view-governance-actions.md)
+      * [Governance Actions How to Vote](about/what-is-cardano-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/README.md)
+        * [Change your Vote](about/what-is-cardano-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/change-your-vote.md)
+      * [Propose a Governance Action](about/what-is-cardano-govtool/govtool-functions/governance-actions/propose-a-governance-action.md)
+    * [Storing Information offline](about/what-is-cardano-govtool/govtool-functions/storing-information-offline.md)
+  * [GovTool feature roadmap](about/what-is-cardano-govtool/govtool-feature-roadmap.md)
+  * [Bootstrapping phase](about/what-is-cardano-govtool/bootstrapping-phase.md)
+* [What is the Constitutional Committee Portal?](about/what-is-the-constitutional-committee-portal/README.md)
+  * [Constitutional Committee Portal Functions](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/README.md)
+    * [Read the Interim Constitution](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/read-the-interim-constitution.md)
+    * [Compare Constitution Iterations](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/compare-constitution-iterations.md)
+    * [View Interim Constitutional Committee Members](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/view-interim-constitutional-committee-members.md)
+    * [View Interim Constitutional Committee Members have votes](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/view-interim-constitutional-committee-members-have-votes.md)
 
 ## Using GovTool
 
+* [Compatible Wallets](using-govtool/compatible-wallets.md)
 * [Getting started](using-govtool/getting-started/README.md)
-  * [Compatible wallets](using-govtool/getting-started/compatible-wallets.md)
   * [Connect your wallet to GovTool](using-govtool/getting-started/connect-your-wallet-to-govtool.md)
   * [The GovTool Dashboard](using-govtool/getting-started/the-govtool-dashboard.md)
-* [GovTool Functions](using-govtool/govtool-functions/README.md)
-  * [Direct Voting](using-govtool/govtool-functions/direct-voting.md)
-  * [DReps](using-govtool/govtool-functions/dreps/README.md)
-    * [Register as a DRep](using-govtool/govtool-functions/dreps/register-as-a-drep.md)
-    * [Retire as a DRep](using-govtool/govtool-functions/dreps/retire-as-a-drep.md)
-    * [DRep error conditions](using-govtool/govtool-functions/dreps/drep-error-conditions.md)
-  * [Delegating](using-govtool/govtool-functions/delegating/README.md)
-    * [Delegate to a DRep](using-govtool/govtool-functions/delegating/delegate-to-a-drep.md)
-    * [Abstain from Every Vote](using-govtool/govtool-functions/delegating/abstain-from-every-vote.md)
-    * [Signal "No Confidence" on Every Vote](using-govtool/govtool-functions/delegating/signal-no-confidence-on-every-vote.md)
-  * [Governance Actions](using-govtool/govtool-functions/governance-actions/README.md)
-    * [View Governance Actions](using-govtool/govtool-functions/governance-actions/view-governance-actions.md)
-    * [Governance Actions How to Vote](using-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/README.md)
-      * [Change your Vote](using-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/change-your-vote.md)
-    * [Propose a Governance Action](using-govtool/govtool-functions/governance-actions/propose-a-governance-action.md)
-  * [Storing Information offline](using-govtool/govtool-functions/storing-information-offline.md)
+
+## using constitutional committee portal
+
+* [Page](using-constitutional-committee-portal/page.md)
 
 ***
 
@@ -43,11 +55,7 @@
 * [How to suggest a feature or submit an idea](bugs-or-feature-suggestions/how-to-suggest-a-feature-or-submit-an-idea.md)
 * [How to submit a bug](bugs-or-feature-suggestions/how-to-submit-a-bug.md)
 
-## Support
-
-* [Get help in Discord](support/get-help-in-discord.md)
-
 ## Legal
 
 * [Privacy Policy](legal/privacy-policy.md)
-* [Terms & Conditions](legal/terms-and-conditions.md)
+* [Terms of Use](https://docs.intersectmbo.org/legal/policies-and-conditions/terms-of-use)

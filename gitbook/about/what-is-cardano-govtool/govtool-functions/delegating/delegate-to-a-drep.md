@@ -10,14 +10,14 @@ description: How to delegate to a DRep
     From the dashboard, click the “View DRep Directory” button in the “Delegate your Voting Power” panel.\
 
 
-    <figure><img src="../../../.gitbook/assets/Artboardmm.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboardmm.png" alt=""><figcaption></figcaption></figure>
 2.  **Delegation Flow**\
     In the next screen you have two options for delegation: You can delegate directly by clicking "Delegate" (2) below, or you can see more details of the DRep by clicking "View Details" (1). If you choose "View Details", you will be able to delegate as well from the subsequent page.\
 
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/Artboard.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboard.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 
@@ -28,7 +28,7 @@ description: How to delegate to a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/Artboard Copy 19.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboard Copy 19.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 
@@ -39,7 +39,7 @@ description: How to delegate to a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/Artboard Copy 20.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboard Copy 20.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 5.  **Delegation Complete**\
@@ -52,7 +52,7 @@ description: How to delegate to a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/Artboard Copy 21.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboard Copy 21.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 

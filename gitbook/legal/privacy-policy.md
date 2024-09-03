@@ -1,7 +1,5 @@
 # Privacy Policy
 
-
-
 ## Basic information
 
 1. The controller of personal data processed via the govtool.com ("Webiste") is Byron (hereinafter: "Byron") registered Byron Network OÜ; Registrikood: 16423145 Tegevusaadress: Lõõtsa tn 5 // Sepapaja tn 4 Tallinn Harjumaa 11415, electronic contact address:contact@byron.network, website [https://byron.network/#](https://byron.network) .&#x20;
@@ -85,6 +83,4 @@ Byron has no influence on the privacy policy applied by owners or administrators
 2. Byron may send e-mails of a commercial nature, especially advertisements and other commercial information, provided that the User has agreed to it; advertisements and other commercial information content may also be attached to incoming and outgoing letters from the system account. \
 
 
-This Privacy Policy applies from October 1, 2021. 7
-
-\
+This Privacy Policy applies from October 1, 2021. 7\

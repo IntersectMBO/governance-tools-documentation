@@ -10,7 +10,7 @@ description: How to register as a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/Artboard Copy 1000.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/Artboard Copy 1000.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 2.  **Roles and Responsibilites**\
@@ -19,7 +19,7 @@ description: How to register as a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/drep reg 2.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 2.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 3.  **DRep Info**\
@@ -28,7 +28,7 @@ description: How to register as a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/drep reg 3.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 3.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 4.  **Data storage confirmation**\
@@ -37,7 +37,7 @@ description: How to register as a DRep
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/drep reg 4.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 4.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 5. **Storing your information**\
@@ -52,33 +52,33 @@ description: How to register as a DRep
     1. Upload the file you downloaded in the step above to GitHub&#x20;
     2. Commit the changes to the repository with the green button at the bottom right
 
-    <figure><img src="../../../.gitbook/assets/github 1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/github 1 (1).png" alt=""><figcaption></figcaption></figure>
 7.  **In GitHub, find the file you uploaded, click on it's name.**\
 
 
-    <figure><img src="../../../.gitbook/assets/github 2.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/github 2.png" alt=""><figcaption></figcaption></figure>
 8.  **In Code view, click on the "Raw" button**\
     This will take you to the 'Raw' view where you can copy the URL for the code&#x20;
 
-    <figure><img src="../../../.gitbook/assets/github 3.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/github 3.png" alt=""><figcaption></figcaption></figure>
 9.  **In the Raw view, click on the URL in the top bar and copy it**
 
-    <figure><img src="../../../.gitbook/assets/github 4 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/github 4 (1).png" alt=""><figcaption></figcaption></figure>
 10. **Return to GovTool and paste in the URL** \
     Then click "Submit"\
 
 
-    <figure><img src="../../../.gitbook/assets/drep reg 6.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 6.png" alt=""><figcaption></figcaption></figure>
 11. **Sign the transaction in your wallet**\
     &#x20;
 
-    <figure><img src="../../../.gitbook/assets/drep reg 7.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 7.png" alt=""><figcaption></figcaption></figure>
 12. **Your transaction will be submitted to the blockchain** \
 
 
-    <figure><img src="../../../.gitbook/assets/drep reg 8.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 8.png" alt=""><figcaption></figcaption></figure>
 13. **Now you are registered as a DRep**\
 
 
-    <figure><img src="../../../.gitbook/assets/drep reg 9.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/drep reg 9.png" alt=""><figcaption></figcaption></figure>
 

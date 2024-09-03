@@ -10,7 +10,7 @@ Click "Governance Actions" from the top menu.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/gov actions menu item.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/gov actions menu item.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -25,7 +25,7 @@ Clicking on the outlined menu item above will bring you to the Governance Action
 5. "View Details" Click on this to see detailed info.
 6. Horizontal navigation. Click the left or right arrows to see more proposals.
 
-<figure><img src="../../../.gitbook/assets/a.png" alt=""><figcaption><p>Governance Actions page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/a.png" alt=""><figcaption><p>Governance Actions page</p></figcaption></figure>
 
 ## The Governance Action detail page
 
@@ -39,4 +39,4 @@ If you Click on "View Details", you will be taken to a detail screen for that pa
 6. Governance Action details
 7. Vote tally
 
-<figure><img src="../../../.gitbook/assets/Donate.png" alt=""><figcaption><p>Governance Action detail page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Donate.png" alt=""><figcaption><p>Governance Action detail page</p></figcaption></figure>
