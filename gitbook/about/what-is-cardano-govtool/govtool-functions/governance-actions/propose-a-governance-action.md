@@ -8,7 +8,7 @@ To be able to submit a proposal for Governance Action, you will need to connect 
 
 Please follow the step by step guideline
 
-1. Navigate to [https://sanchogov.tools/](https://sanchogov.tools/)
+1. Navigate to [https://gov.tools/](https://gov.tools/)
 2. Click "Connect to Propose"
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
