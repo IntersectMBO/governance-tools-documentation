@@ -28,10 +28,14 @@ Wallets which are working with GovTool on Mainnet.
 | **NuFi**       | [visit site](https://chromewebstore.google.com/detail/nufi/gpnihlnnodeiiaakbikldcihojploeca)                  | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                  |
 | **Typhon**     | [visit site](https://chromewebstore.google.com/detail/typhon-wallet/kfdniefadaanbjodldohaedphafoffoh)         | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                  |
 | **Yoroi**      | [visit site](https://chromewebstore.google.com/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb)                 | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                  |
-| **Lace**       | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                  | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
+| **Lace**       | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                  | <mark style="color:green;background-color:green;">Online \* (read note below)</mark>                                                                                             |
 | **GeroWallet** | [visit site](https://chromewebstore.google.com/detail/gerowallet/bgpipimickeadkjlklgciifhnalhdjhe)            | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
 | **Vespr**      | [visit site](https://chromewebstore.google.com/detail/vespr-wallet/bedogdpgdnifilpgeianmmdabklhfkcn)          | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                           |
 | **Flint**      | N/A (see [announcement](https://x.com/FlintWallet/status/1828184961960308832?t=0eIBBMnAY5feMTOlojFlSg\&s=19)) | <mark style="color:red;background-color:red;">Will not progress</mark> (see [announcement](https://x.com/FlintWallet/status/1828184961960308832?t=0eIBBMnAY5feMTOlojFlSg\&s=19)) |
+
+\*The lace team is investigating a possible issue that impacts signing governance transactions. It's recommended to disconnect Lace from the GovTool followed by disabling and re-enabling the extension as it may resolve the issue.
+
+###
 
 ### Preview Network Compatible Wallets (`preview.gov.tools`)
 
