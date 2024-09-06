@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/voltaire splash screen (1).png
+cover: ../../.gitbook/assets/Cover (1).png
 coverY: 0
 layout:
   cover:
@@ -28,8 +28,6 @@ The Cardano Govtool, together with the other core tools such as the Constitution
 
 
 GovTool is an application that enables users to participate in many ways in the governance of the Cardano blockchain.
-
-###
 
 ### GovTool enables ADA holders to:
 

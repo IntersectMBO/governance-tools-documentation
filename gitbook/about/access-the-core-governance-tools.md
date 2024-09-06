@@ -1,18 +1,14 @@
----
-description: Where are these tools?
----
-
 # Access the Core Governance Tools
 
 {% hint style="warning" %}
-These are the official core governance tools sites - be wary of anyother site claiming legitimacy.
+These are the official core governance tools sites - be wary of any other site claiming legitimacy.
 {% endhint %}
 
 ## Cardano GovTool Instances
 
 ### Mainnet
 
-* _`gov.tools` - C**oming soon**_
+* [https://gov.tools/](https://gov.tools/)
 
 ### Preview Testnet
 

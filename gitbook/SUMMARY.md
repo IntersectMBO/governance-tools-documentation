@@ -52,6 +52,12 @@
 * [How to suggest a feature or submit an idea](bugs-or-feature-suggestions/how-to-suggest-a-feature-or-submit-an-idea.md)
 * [How to submit a bug](bugs-or-feature-suggestions/how-to-submit-a-bug.md)
 
+## Participate in development
+
+* [Overview](participate-in-development/overview.md)
+* [How to participate](participate-in-development/how-to-participate.md)
+* [Governance tools open repositories](participate-in-development/governance-tools-open-repositories.md)
+
 ## Legal
 
 * [Privacy Policy](legal/privacy-policy.md)
