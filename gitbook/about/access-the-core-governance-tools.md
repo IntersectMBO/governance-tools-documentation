@@ -8,11 +8,11 @@ These are the official core governance tools sites - be wary of any other site c
 
 ### Mainnet
 
-* [https://gov.tools/](https://gov.tools/)
+* [**gov.tools**](https://gov.tools/)
 
 ### Preview Testnet
 
-* [p**review.gov.tools**](https://preview.gov.tools/)
+* [**preview.gov.tools**](https://preview.gov.tools/)
 
 ### SanchoNet
 
