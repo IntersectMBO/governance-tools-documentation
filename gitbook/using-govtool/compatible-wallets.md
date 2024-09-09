@@ -35,7 +35,7 @@ Wallets which are working with GovTool on Mainnet.
 
 **\***The lace team is investigating a possible issue that impacts signing governance transactions. It's recommended to disconnect Lace from the GovTool followed by **disabling and re-enabling** the extension as it may resolve the issue.
 
-**\*\*** For Vespr mobile users, please ensure you have updated to version `3.6.0` to enable govenernance functionaility.
+**\*\*** For Vespr mobile users, please ensure you have updated to version `3.6.0` or newer to enable governance functionality.
 
 ###
 
@@ -43,11 +43,14 @@ Wallets which are working with GovTool on Mainnet.
 
 Wallets which are working with GovTool on Preview testnet.
 
-| Wallet              | Download link                                                                                                  | Status                                                                 |
-| ------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Eternl**          | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                 | <mark style="color:green;background-color:green;">Online</mark>        |
-| **Lace**            | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                   | <mark style="color:green;background-color:green;">Online</mark>        |
-| **Yoroi (Nightly)** | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related) | <mark style="color:orange;background-color:orange;">In Progress</mark> |
+| Wallet              | Download link                                                                                                  | Status                                                                                                                                                                                                                                                                                                                       |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eternl**          | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                 | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                                                                                                                                                              |
+| **Lace**            | [visit site](https://chromewebstore.google.com/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk)                   | <mark style="color:green;background-color:green;">Online</mark>                                                                                                                                                                                                                                                              |
+| **Vespr**           | [visit site](https://vespr.xyz/)                                                                               | <mark style="color:green;background-color:green;">Online</mark> <mark style="color:green;background-color:green;"></mark><mark style="color:green;background-color:green;">**\***</mark> <mark style="color:green;background-color:green;"></mark><mark style="color:green;background-color:green;">(read note below)</mark> |
+| **Yoroi (Nightly)** | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related) | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                                                                                                                                                                       |
+
+**\*** For Vespr mobile users, please ensure you have updated to version `3.6.0` or newer to enable governance functionality.
 
 ### SanchoNet Compatible Wallets (`sanchogov.tools`)
 
