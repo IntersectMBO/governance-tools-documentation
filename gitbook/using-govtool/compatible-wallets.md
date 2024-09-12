@@ -57,5 +57,6 @@ Wallets which are working with GovTool  on SanchoNet.
 | Wallet                       | Download link                                                                                                  | Status                                                          |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Eternl**                   | [visit site](https://chromewebstore.google.com/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)                 | <mark style="color:green;background-color:green;">Online</mark> |
+| **Lace**                     | [visit site](https://chromewebstore.google.com/detail/lace-sanchonet/djcdfchkaijggdjokfomholkalbffgil)         | <mark style="color:green;background-color:green;">Online</mark> |
 | **Nufi** _SanchoNet Version_ | [download here](https://assets.nu.fi/extension/sanchonet/nufi-cwe-sanchonet-latest.zip)                        | <mark style="color:green;background-color:green;">Online</mark> |
 | **Yoroi (Nightly)**          | [visit site](https://chrome.google.com/webstore/detail/yoroi-nightly/poonlenmfdfbjfeeballhiibknlknepo/related) | <mark style="color:green;background-color:green;">Online</mark> |
