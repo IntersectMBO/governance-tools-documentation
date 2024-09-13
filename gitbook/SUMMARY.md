@@ -37,6 +37,7 @@
 * [Getting started](using-govtool/getting-started/README.md)
   * [Connect your wallet to GovTool](using-govtool/getting-started/connect-your-wallet-to-govtool.md)
   * [The GovTool Dashboard](using-govtool/getting-started/the-govtool-dashboard.md)
+* [Support](using-govtool/support.md)
 
 ***
 
