@@ -13,6 +13,7 @@ For an up to date list of all known issues and bugs please refer to [Github GovT
 * Support for showing script-based DReps in directory
 * Direct voter voting power shows much higher than it should
 * SPO votes are should be Ada stake weighted
+* Mobile wallets do not support downloading metadata files
 
 ## Constitutional Committee Portal
 

@@ -33,7 +33,7 @@ Wallets which are working with GovTool on Mainnet.
 | **GeroWallet**      | [visit site](https://chromewebstore.google.com/detail/gerowallet/bgpipimickeadkjlklgciifhnalhdjhe)            | <mark style="color:orange;background-color:orange;">In Progress</mark>                                                                                                                                                                                                                                                       |
 | **Flint**           | N/A (see [announcement](https://x.com/FlintWallet/status/1828184961960308832?t=0eIBBMnAY5feMTOlojFlSg\&s=19)) | <mark style="color:red;background-color:red;">Will not progress</mark>                                                                                                                                                                                                                                                       |
 
-**\*** For Vespr mobile users, please ensure you have updated to version `3.6.0` or newer to enable governance functionality.
+**\*** Registering as a DRep is unavailable via GovTool because the in wallet browser does not support downloading metadata files.&#x20;
 
 ###
 
