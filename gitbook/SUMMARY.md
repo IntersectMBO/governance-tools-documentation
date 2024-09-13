@@ -60,5 +60,5 @@
 
 ## Legal
 
-* [Privacy Policy](legal/privacy-policy.md)
+* [Private Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/privacy-policy)
 * [Terms of Use](https://docs.intersectmbo.org/legal/policies-and-conditions/terms-of-use)
