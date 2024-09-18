@@ -1,6 +1,6 @@
 # How to submit a bug
 
-First check against list of [Known Issues](broken-reference).
+First check against list of [Known Issues](../about/known-issues.md).
 
 If you find a bug click on the 'feedback' button at the bottom of the your screen, select 'bug' and follow the guide.
 
