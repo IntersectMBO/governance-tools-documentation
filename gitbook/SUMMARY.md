@@ -58,7 +58,7 @@
 
 * [Overview](participate-in-development/overview.md)
 * [How to participate](participate-in-development/how-to-participate.md)
-* [Governance tools open repositories](participate-in-development/governance-tools-open-repositories.md)
+* [Governance Tools Open Repositories](participate-in-development/governance-tools-open-repositories.md)
 
 ## Legal
 

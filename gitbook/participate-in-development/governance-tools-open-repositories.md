@@ -1,6 +1,17 @@
-# Governance tools open repositories
+# Governance Tools Open Repositories
+
+## GovTool
+
+### Wrapper
 
 * [GovTool (Voting and delegation)](https://github.com/IntersectMBO/govtool)
-* [GovTool Proposal Pillar Frontend](https://github.com/IntersectMBO/pdf-ui)
-* [GovTool Proposal Pillar Backend](https://github.com/IntersectMBO/govtool-proposal-discussion/)
+
+### Pillars
+
+* [Voting Pillar](https://github.com/IntersectMBO/govtool-voting-pillar)
+* [Delegation Pillar](https://github.com/IntersectMBO/govtool-delegation-pillar)
+* [Proposal Pillar](https://github.com/IntersectMBO/govtool-proposal-pillar)
+
+## Constitutional Committee Portal
+
 * [Constitution Committee Portal](https://github.com/IntersectMBO/cc-portal)
