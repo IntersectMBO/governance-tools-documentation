@@ -30,6 +30,7 @@
     * [Compare Constitution Iterations](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/compare-constitution-iterations.md)
     * [View Interim Constitutional Committee Members](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/view-interim-constitutional-committee-members.md)
     * [View Interim Constitutional Committee Members have votes](about/what-is-the-constitutional-committee-portal/constitutional-committee-portal-functions/view-interim-constitutional-committee-members-have-votes.md)
+* [Community Governance Tools](about/community-governance-tools.md)
 
 ## Using GovTool
 
