@@ -35,6 +35,6 @@ GovTool is an application that enables users to participate in many ways in the 
 * Register to vote ([Direct Voter](govtool-functions/direct-voting.md)) without becoming a DRep.
 * [Delegate Voting Power](govtool-functions/delegating/delegate-to-a-drep.md) to a DRep
 * Register to become a Delegated Representative ([**DRep**](govtool-functions/dreps/register-as-a-drep.md)), allowing others to delegate their voting power to the DRep.
-* [Vote on Governance Actions](govtool-functions/governance-actions/governance-actions-how-to-vote/) - available to users that are registered to vote as DReps or Direct Voters.
+* [Vote on Governance Actions](govtool-functions/governance-actions/vote-on-governance-actions/) - available to users that are registered to vote as DReps or Direct Voters.
 * See results of [Governace Action](govtool-functions/governance-actions/) votes.
 * [Propose](govtool-functions/governance-actions/propose-a-governance-action.md) a Governance Action.

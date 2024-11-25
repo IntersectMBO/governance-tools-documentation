@@ -32,10 +32,10 @@ layout:
 5. Navigate to [https://preview.gov.tools/](https://sanchogov.tools/)
 6. [Connect your wallet](connect-your-wallet-to-govtool.md) to GovTool.
 7. You now have several options:
-   1. [Browse on-chain Governance Actions](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/).
+   1. [Browse on-chain Governance Actions](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/vote-on-governance-actions/).
    2. [Vote on an action by becoming a dRep](../../about/what-is-cardano-govtool/govtool-functions/dreps/register-as-a-drep.md).
-   3. '[Abstain](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/)' on every Governance Action by default.
-   4. [Vote "No"](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/governance-actions-how-to-vote/) on every action by default.
+   3. '[Abstain](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/vote-on-governance-actions/)' on every Governance Action by default.
+   4. [Vote "No"](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/vote-on-governance-actions/) on every action by default.
    5. [Become a dRep](../../about/what-is-cardano-govtool/govtool-functions/dreps/register-as-a-drep.md) yourself, and gain voting rights.
    6. Become a [Direct Voter](../../about/what-is-cardano-govtool/govtool-functions/direct-voting.md) and vote on Governance Actions with your own Voting Power
    7. Propose your own [Governance Action](../../about/what-is-cardano-govtool/govtool-functions/governance-actions/propose-a-governance-action.md)
