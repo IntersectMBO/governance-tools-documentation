@@ -4,7 +4,7 @@
 
 * [Core Governance Tools](README.md)
   * [Access the Core Governance Tools](overview/core-governance-tools/access-the-core-governance-tools.md)
-* [🚨 Known Issues](overview/known-issues.md)
+* [System status](overview/system-status.md)
 * [What is Cardano GovTool?](overview/what-is-cardano-govtool.md)
 * [What is the Constitutional Committee Portal?](overview/what-is-the-constitutional-committee-portal.md)
 * [Community Governance Tools](overview/community-governance-tools.md)
