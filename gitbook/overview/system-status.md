@@ -9,6 +9,11 @@ description: This page shows the system status and known issues
 * [Mainnet](https://status.gov.tools/status/gov-tools)&#x20;
 * [Preview](https://status.gov.tools/status/preview-gov-tools)
 
+Check Constitutional Committee portal system status
+
+* [Mainnet](https://status.gov.tools/status/cc-portal)
+* [SanchoNet](https://status.gov.tools/status/sancho-cc-portal)
+
 ## 🚨 Known Issues
 
 ### Cardano GovTool
