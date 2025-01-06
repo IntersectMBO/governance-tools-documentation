@@ -29,7 +29,9 @@ layout:
 2. Create an account in your wallet. Please refer to the wallet's documentation to create an account.
 3. Set your wallet's network to "Preview". This will be different for each wallet. Refer to the documentation of your wallet.
 4. Get some test ADA from the Cardano testnet [faucet](https://docs.cardano.org/cardano-testnets/tools/faucet/).
-5. Navigate to [https://preview.gov.tools/](https://preview.gov.tools/)
+5. Navigate to the version of GovTool you want to use:
+   1. Preview: [https://preview.gov.tools/](https://preview.gov.tools/)
+   2. MainNet: [https://gov.tools](https://gov.tools)
 6. [Connect your wallet](connect-your-wallet-to-govtool.md) to GovTool.
 7. You now have several options:
    1. [Browse on-chain Governance Actions](../governance-actions/vote-on-governance-actions/).
