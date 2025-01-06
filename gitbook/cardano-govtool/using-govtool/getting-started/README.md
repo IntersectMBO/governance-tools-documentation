@@ -27,13 +27,13 @@ layout:
 
 1. Download a [compatible wallet](https://docs.sanchogov.tools/how-to-use-the-govtool/getting-started/get-a-compatible-wallet)
 2. Create an account in your wallet. Please refer to the wallet's documentation to create an account.
-3. Set your wallet's network to "Preview". This will be different for each wallet. Refer to the documentation of your wallet.
-4. Get some test ADA from the Cardano testnet [faucet](https://docs.cardano.org/cardano-testnets/tools/faucet/).
-5. Navigate to the version of GovTool you want to use:
-   1. Preview: [https://preview.gov.tools/](https://preview.gov.tools/)
-   2. MainNet: [https://gov.tools](https://gov.tools)
-6. [Connect your wallet](connect-your-wallet-to-govtool.md) to GovTool.
-7. You now have several options:
+3. If you want to use the Preview network:&#x20;
+   1. Set your wallet's network to "Preview". This will be different for each wallet. Refer to the documentation of your wallet.
+   2. Get some test ADA from the Cardano testnet [faucet](https://docs.cardano.org/cardano-testnets/tools/faucet/).
+   3. Navigate to: [https://preview.gov.tools/](https://preview.gov.tools/)
+4. To use the MainNet version of GovTool, go to: [https://gov.tools](https://gov.tools)
+5. [Connect your wallet](connect-your-wallet-to-govtool.md) to GovTool by using the "Connect" buttons on the interface.
+6. You now have several options:
    1. [Browse on-chain Governance Actions](../governance-actions/vote-on-governance-actions/).
    2. [Vote on an action by becoming a dRep](../dreps/register-as-a-drep.md).
    3. '[Abstain](../governance-actions/vote-on-governance-actions/)' on every Governance Action by default.
