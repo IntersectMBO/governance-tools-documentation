@@ -43,6 +43,7 @@
 * [GovTool feature roadmap](cardano-govtool/govtool-feature-roadmap.md)
 * [FAQs](cardano-govtool/faqs/README.md)
   * [Ways to use your Voting Power](cardano-govtool/faqs/ways-to-use-your-voting-power.md)
+  * [Direct Voter vs DRep](cardano-govtool/faqs/direct-voter-vs-drep.md)
   * [What does it mean to register as a DRep?](cardano-govtool/faqs/what-does-it-mean-to-register-as-a-drep.md)
   * [What is a Governance Action?](cardano-govtool/faqs/what-is-a-governance-action.md)
   * [What is a DRep?](cardano-govtool/faqs/what-is-a-drep.md)
