@@ -42,6 +42,7 @@
 * [Support](cardano-govtool/support.md)
 * [GovTool feature roadmap](cardano-govtool/govtool-feature-roadmap.md)
 * [FAQs](cardano-govtool/faqs/README.md)
+  * [How Governance Action Vote Totals are Calculated in Govtool](cardano-govtool/faqs/how-governance-action-vote-totals-are-calculated-in-govtool.md)
   * [Ways to use your Voting Power](cardano-govtool/faqs/ways-to-use-your-voting-power.md)
   * [Direct Voter vs DRep](cardano-govtool/faqs/direct-voter-vs-drep.md)
   * [What does it mean to register as a DRep?](cardano-govtool/faqs/what-does-it-mean-to-register-as-a-drep.md)
@@ -67,8 +68,7 @@
 
 * [Overview](participate-in-development/overview.md)
 * [How to participate](participate-in-development/how-to-participate.md)
-* [Governance Tools Open Repositories](participate-in-development/governance-tools-open-repositories/README.md)
-  * [How Governance Action Vote Totals are Calculated in Govtool](participate-in-development/governance-tools-open-repositories/how-governance-action-vote-totals-are-calculated-in-govtool.md)
+* [Governance Tools Open Repositories](participate-in-development/governance-tools-open-repositories.md)
 
 ## Legal
 
