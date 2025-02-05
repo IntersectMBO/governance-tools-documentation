@@ -67,7 +67,8 @@
 
 * [Overview](participate-in-development/overview.md)
 * [How to participate](participate-in-development/how-to-participate.md)
-* [Governance Tools Open Repositories](participate-in-development/governance-tools-open-repositories.md)
+* [Governance Tools Open Repositories](participate-in-development/governance-tools-open-repositories/README.md)
+  * [How Governance Action Vote Totals are Calculated in Govtool](participate-in-development/governance-tools-open-repositories/how-governance-action-vote-totals-are-calculated-in-govtool.md)
 
 ## Legal
 
