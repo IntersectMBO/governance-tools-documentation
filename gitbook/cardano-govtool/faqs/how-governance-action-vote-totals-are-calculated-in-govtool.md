@@ -61,11 +61,6 @@ GovTool aims to show vote total values which help the user gauge likelihood of r
   * [Calculates Yes Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L242-L247)
   * [Calculates No Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L248-L253)
   * [Calculates Abstain Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L254)
-* Then, GovTool fetches the voting power of such DRep and sum all the yes votes voting power, no votes voting power, and abstain (this voting power comes from the `drep_distr` table of DB-Sync)
-* Note that the `drep_distr` is only updated once per epoch.
-* To the `abstain` vote total we add the voting power of "DRep always abstain" (predefined voting option).
-* For the "DRep always no confidence" (predefined voting option), this voting power total is added to the `no` total for all types of governance action except no confidence actions, where this is added to the `yes` total.
-* `NOT VOTED` - is the sum of active DRep voting power minus voting power that has been counted to votes
 
 ### Example
 
