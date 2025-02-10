@@ -1,20 +1,71 @@
-# How Governance Action Vote Totals are Calculated in Govtool
+# How Governance Action Vote Totals are Calculated in GovTool
 
-[See GovTool's SQL query](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql) run on DB-Sync.
+## DRep Vote Total Equation
 
-## DRep Vote Totals
+GovTool aims to show vote total values which help the user gauge likelihood of ratification of an action.
 
-* We are taking the very latest vote from DReps for that governance action, filtering out votes from DReps who have retired\*.
-* There are 3 types of votes - `yes`, `no`, `abstain`
-* Then, GovTool fetchs the voting power of such DRep and sum all the yes votes voting power, no votes voting power, and abstain (this voting power comes from the [`drep_distr` table of DB-Sync](https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/schema.md#drep_distr))
-* Note that the [`drep_distr`](https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/schema.md#drep_distr) is only updated once per epoch.
+### Intro definitions
+
+* Active DRep stake = all the voting power of DReps within the active state&#x20;
+  * (This does not include any in-active DReps OR retired DReps)
+* Total Active Stake = Active DRep stake + auto no confidence stake
+  * We do not include any abstain within this, as they are not part of ratification equation
+
+### For a governance action
+
+#### :thought\_balloon: Abstain Total&#x20;
+
+* Total voting power of DRep Abstain votes + auto-abstain stake
+
+#### :white\_check\_mark: Yes Total
+
+* IF governance action type != 'NoConfidence'&#x20;
+  * Total of voting power of DReps Yes votes&#x20;
+* IF governance action type == 'NoConfidence'
+  * Total of voting power of DReps Yes votes + auto no confidence stake
+
+#### :white\_check\_mark: Yes Percentage
+
+* (Yes Total / Total Active Stake) x 100
+
+#### :x: No Total
+
+* IF governance action type != 'NoConfidence'
+  * Total of voting power of DReps No votes + auto no confidence stake
+* IF governance action type == 'NoConfidence'
+  * Total of voting power of DReps No votes
+
+#### :x: No Percentage
+
+* (No Total / Total Active Stake) x 100
+
+#### :ballot\_box: Not Voted Total (remainder of Total Active Stake)
+
+* Total Active Stake - Yes Total - No Total
+
+#### :ballot\_box:  Not Voted Percentage (remainder of Total Active Stake Percentage)
+
+* 100 - yes percentage - no percentage
+  * this should equal ((Total Active Stake - Yes Total - No Total) / Total Active Stake ) \* 100
+
+## DRep Vote Total Implementation
+
+[See GovTool's SQL query](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql) run on DB-Sync. This pulls all the proposal data, and vote totals.
+
+* GovTool takes DRep voting power from [`drep_distr` table of DB-Sync](https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/schema.md#drep_distr) for the registered DReps and the "predefined voting option DReps", this data is only updated once per epoch.
+* GovTool takes the newest vote from DReps for that governance action, filtering out votes from DReps who have recently retired.
+* In the SQL query
+  * [Gets the latest epoch of DRep distribution](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L1-L7)
+  * [Gets the voting power of the predefined no confidence DRep](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L18-L26)
+  * [Gets the voting power of the predefined always abstain DRep](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L18-L26)
+  * [Calculates Yes Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L242-L247)
+  * [Calculates No Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L248-L253)
+  * [Calculates Abstain Total](https://github.com/IntersectMBO/govtool/blob/develop/govtool/backend/sql/list-proposals.sql#L254)
+* Then, GovTool fetches the voting power of such DRep and sum all the yes votes voting power, no votes voting power, and abstain (this voting power comes from the `drep_distr` table of DB-Sync)
+* Note that the `drep_distr` is only updated once per epoch.
 * To the `abstain` vote total we add the voting power of "DRep always abstain" (predefined voting option).
-* For the "DRep always no confidence" (predefined voting option), this voting power total is added to the `no` total for all types of governance action except no confidence actions, where this is added to the `yes` total. \*\*
+* For the "DRep always no confidence" (predefined voting option), this voting power total is added to the `no` total for all types of governance action except no confidence actions, where this is added to the `yes` total.
 * `NOT VOTED` - is the sum of active DRep voting power minus voting power that has been counted to votes
-
-\*Filtering out votes from retired DReps was spotted during authoring, this will be fixed, unlikely to be affecting current totals.
-
-\*\*The logic applied in GovTool for this is slightly off, unlikely to be affecting current totals, fix to be deployed shortly.
 
 ### Example
 
