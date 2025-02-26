@@ -29,7 +29,7 @@ description: How to register as a DRep
    1. Download the file to your computer. This file contains the DRep registration info that you entered in the registration form.
    2. Save the file in a location that will provide you with a publicly-accessible URL.
    3. Copy the URL from the location above and paste it into the URL field.
-6.  **Example using GitHub**\
+6.  **Example using GitHub** [**See example using IPFS**](register-as-a-drep.md#ipfs)\
     \
     This example uses a new public repo for simplicity.&#x20;
 
@@ -66,3 +66,50 @@ description: How to register as a DRep
 
     <figure><img src="../../../.gitbook/assets/drep reg 9.png" alt=""><figcaption></figcaption></figure>
 
+
+
+#### Store data using IPFS <a href="#ipfs" id="ipfs"></a>
+
+One of the simplest ways to store data using IPFS is by using the IPFS desktop app. You can download it here: [https://docs.ipfs.tech/install/ipfs-desktop/](https://docs.ipfs.tech/install/ipfs-desktop/)
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-24 at 17.12.18.png" alt=""><figcaption><p>IPFS Download page</p></figcaption></figure>
+
+Choose your platform and download and install the desktop app on your computer.
+
+Upload the .jsonld file you from GovTool to IPFS by using the "Import > File" option on the top right of the screen
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-24 at 17.19.41.png" alt=""><figcaption></figcaption></figure>
+
+Once the file is uploaded, you need to set it's 'pinning'. Select the file in the list, click on the three dots at the far right of the screen, and choose "Set Pinning"
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-24 at 17.24.55.png" alt=""><figcaption></figcaption></figure>
+
+Click the "Local Node" checkbox and then the "Apply" button
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-24 at 17.25.20.png" alt=""><figcaption></figcaption></figure>
+
+You will now see the Files list again. Click the three dots again, and choose "Share Link"
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-24 at 17.26.01.png" alt=""><figcaption></figcaption></figure>
+
+Click "Copy" to copy the link
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Paste it back into GovTool and click "Submit"
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Sign the transaction with your wallet:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Your transaction will be checked and submitted:
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+You can return to the dashboard, and when the transaction is submitted, you will see your DRep registration there.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+You are now registered and can vote as a DRep and also accept delegated voting power from others.
