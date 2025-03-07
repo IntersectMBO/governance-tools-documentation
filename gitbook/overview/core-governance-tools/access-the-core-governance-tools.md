@@ -14,16 +14,8 @@ These are the official core governance tools sites - be wary of any other site c
 
 * [**preview.gov.tools**](https://preview.gov.tools/)
 
-### SanchoNet
-
-* [**sanchogov.tools**](https://sanchogov.tools/)
-
 ## Constitutional Portal Instances
 
-### Mainnet (beta)
+### Mainnet
 
 * [**constitution.gov.tools**](https://constitution.gov.tools/)
-
-### SanchoNet
-
-* [**sancho.constitution.gov.tools**](https://sancho.constitution.gov.tools/)

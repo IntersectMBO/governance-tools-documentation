@@ -11,6 +11,7 @@
 * [Voting Pillar](https://github.com/IntersectMBO/govtool-voting-pillar)
 * [Delegation Pillar](https://github.com/IntersectMBO/govtool-delegation-pillar)
 * [Proposal Pillar](https://github.com/IntersectMBO/govtool-proposal-pillar)
+* [Outcomes Pillar](https://github.com/IntersectMBO/govtool-outcomes-pillar)
 
 ## Constitutional Committee Portal
 
