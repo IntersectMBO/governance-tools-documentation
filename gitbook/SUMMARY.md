@@ -39,6 +39,7 @@
     * [Vote on Governance Actions](cardano-govtool/using-govtool/governance-actions/vote-on-governance-actions/README.md)
       * [Change your Vote](cardano-govtool/using-govtool/governance-actions/vote-on-governance-actions/change-your-vote.md)
   * [Storing Information offline](cardano-govtool/using-govtool/storing-information-offline.md)
+  * [Cardano Budget Proposals](cardano-govtool/using-govtool/cardano-budget-proposals.md)
 * [FAQs](cardano-govtool/faqs/README.md)
   * [How Governance Action Vote Totals are Calculated in GovTool](cardano-govtool/faqs/how-governance-action-vote-totals-are-calculated-in-govtool.md)
   * [Ways to use your Voting Power](cardano-govtool/faqs/ways-to-use-your-voting-power.md)
