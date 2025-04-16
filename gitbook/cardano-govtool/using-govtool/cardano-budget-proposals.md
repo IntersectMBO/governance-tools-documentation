@@ -16,8 +16,8 @@ In the Budget Proposal section, you can:
 
 * Review and comment on existing proposals
 * Submit, edit, or delete your own proposals
-* \[coming soon] If you are a DRep you can provide your sentiment about that proposal via a simple poll
-* \[coming soon] If you are a member of the Intersect Committees you can provide recognisable feedback
+* If you are a DRep you can provide your sentiment about that proposal via a simple poll
+* If you are a member of the Intersect Committees you can provide recognisable feedback
 
 ### Quick video guide
 
@@ -30,3 +30,5 @@ In the Budget Proposal section, you can:
 {% embed url="https://www.1694.io/en/proposals" %}
 
 {% embed url="https://governancespace.com/en-us/budget-discussions" %}
+
+{% embed url="https://budget.cardano.africa/" %}
