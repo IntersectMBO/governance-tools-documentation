@@ -22,3 +22,11 @@ In the Budget Proposal section, you can:
 ### Quick video guide
 
 {% embed url="https://www.loom.com/share/d7a5380a5d5d4a98bd7420e3ddc27680?sid=f6aa96ec-2315-4ff2-b47f-6f414d30a25c" %}
+
+## Community tools that use Govtool APIs
+
+{% embed url="https://cardanobudget.com/" %}
+
+{% embed url="https://www.1694.io/en/proposals" %}
+
+{% embed url="https://governancespace.com/en-us/budget-discussions" %}
