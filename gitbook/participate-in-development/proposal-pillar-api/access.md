@@ -4,7 +4,7 @@ In repo API documentation for the Proposal Backend: [https://github.com/Intersec
 
 ### API Access
 
-* [Swagger Documentation](https://z0f513702-z1409f06e-gtw.z937eb260.rustrocks.fr/api-docs#tag/Proposal/operation/Update%20proposal)
+* [Swagger Documentation](https://p1337-z74f91f2d-zb0719f09-gtw.z937eb260.rustrocks.fr/api-docs#tag/Proposal/operation/Update%20proposal)
   * Work in progress (includes Budget Proposals): [https://be.pdf.gov.tools/documentation/v1.0.0](https://be.pdf.gov.tools/documentation/v1.0.0)
     * After its completed, [Swagger Documentation](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/) above will be updated
 * Mainnet: [https://be.pdf.gov.tools/api/](https://be.pdf.gov.tools/api/){end-point}
