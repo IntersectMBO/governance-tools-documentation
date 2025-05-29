@@ -2,7 +2,8 @@
 
 ## overview
 
-* [Core Governance Tools](README.md)
+* [The future of GovTool: Why it matters and what comes next](README.md)
+* [Core Governance Tools](<README (1).md>)
   * [Access the Core Governance Tools](overview/core-governance-tools/access-the-core-governance-tools.md)
 * [System status](overview/system-status.md)
 * [What is Cardano GovTool?](overview/what-is-cardano-govtool.md)
