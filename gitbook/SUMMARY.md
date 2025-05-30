@@ -1,10 +1,15 @@
 # Table of contents
 
+## ! IMPORTANT UPDATES !
+
+* [⚠️ GovTool Maintenance Ending Soon](README.md)
+  * [The future of GovTool: Why it matters and what comes next](important-updates/govtool-maintenance-ending-soon/the-future-of-govtool-why-it-matters-and-what-comes-next.md)
+  * [Updated Govtool Budget Proposal - short version](important-updates/govtool-maintenance-ending-soon/updated-govtool-budget-proposal-short-version/README.md)
+    * [Updated Govtool Budget Proposal - long version](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp)
+  * [GovTool - a breakdown of the costs so far](important-updates/govtool-maintenance-ending-soon/govtool-a-breakdown-of-the-costs-so-far.md)
+
 ## overview
 
-* [! Important Updates !](README.md)
-  * [The future of GovTool: Why it matters and what comes next](overview/important-updates/the-future-of-govtool-why-it-matters-and-what-comes-next/README.md)
-    * [Updated Govtool Budget Proposal](overview/important-updates/the-future-of-govtool-why-it-matters-and-what-comes-next/updated-govtool-budget-proposal.md)
 * [Core Governance Tools](<README (1).md>)
   * [Access the Core Governance Tools](overview/core-governance-tools/access-the-core-governance-tools.md)
 * [System status](overview/system-status.md)

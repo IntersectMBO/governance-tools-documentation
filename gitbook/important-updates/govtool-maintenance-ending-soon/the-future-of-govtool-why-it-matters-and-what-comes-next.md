@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Torus_array 2.png
+cover: ../../.gitbook/assets/Torus_array 2.png
 coverY: 0
 ---
 

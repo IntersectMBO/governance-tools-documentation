@@ -2,10 +2,12 @@
 description: This is a short and concise version of a longer more detailed version
 ---
 
-# Updated Govtool Budget Proposal
+# Updated Govtool Budget Proposal - short version
 
-{% hint style="info" %}
-You can read, comment and provide feedback on the longer and more detailed proposal version [here](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp)
+{% hint style="danger" %}
+**FULL DETAILED PROPOSAL**
+
+👉🏻 You can read, comment and provide feedback on the full detailed proposal [here](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp) 👈
 {% endhint %}
 
 ## What are the key differences with the original proposal
@@ -94,6 +96,12 @@ Accelerates growth and guarantees monthly updates:
 * Modular: each pillar can be funded individually or as a full suite.
 
 Any unused funds will be returned to the Cardano Treasury, and the project will continue to be steered through the Governance Tools Working Group, maintaining open contribution pathways for new teams and community members.
+
+## Why the Updated GovTool Proposal Costs Less
+
+* Original maintenance costs per each pillar were reviewed based on community and DRep feedback and then reduced
+* The costs of research and development for new features, which were budgeted separately in the original budget proposal, have been incorporated into the active maintenance costs in the revised proposal
+* A new tiered budget was introduced bringing a more balanced approach, where in particular the foundational tier brings savings by embracing fully the common open source project support
 
 \
 \
