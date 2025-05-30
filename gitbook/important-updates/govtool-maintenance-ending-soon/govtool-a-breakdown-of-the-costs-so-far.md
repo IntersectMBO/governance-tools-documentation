@@ -6,6 +6,10 @@ description: >-
 
 # GovTool - a breakdown of the costs so far
 
+{% hint style="info" %}
+The budget broken down below was distributed to community builders: **ByronNetwork, DQuadrant, WeDeliver, Bloxico, Lidonation**
+{% endhint %}
+
 ## Early Bootstrapping: Pre-CIP-1694 Approval
 
 Before CIP-1694 was approved, GovTool was bootstrapped to help users visualize and test the proposed governance process. This phase was sponsored by IOG and delivered in collaboration with two builder teams.
@@ -47,7 +51,7 @@ To cover the whole governance process, envisioning needs ahead of betting to boo
 
 <details>
 
-<summary>Proposal Discussion Pillar: ₳135K (~$67.5K @0.5)</summary>
+<summary><strong>Proposal Discussion Pillar:</strong> ₳135K (~$67.5K @0.5)</summary>
 
 To cover the needs described in CIP-1694 about off-chain socialisation and discussion before a governance action is submitted on-chain, and to make it easy for people to submit a governance action with guided process to structure metadata too, a grant to add a Proposal discussion section was opened and awarded via community reviews
 
