@@ -60,7 +60,7 @@ In short, GovTool is more than a tool—it is a collaborative foundation for par
 
 The revised budget addresses community feedback with a modular, transparent structure that allows flexibility while ensuring core sustainability.
 
-### Level 1 – Foundational ($300K / ₳360K)
+### Level 1 – Foundational ($330K / ₳412.5K)
 
 (2.25 FTEs in total + hosting costs)
 
@@ -70,7 +70,7 @@ Covers minimum operational costs:
 * Core maintenance team (1 FTE QA and 1 FTE full-stack developer, split across 4 contributors to avoid downtime).
 * Ensures GovTool stays online, secure, and functional, but without guaranteed new features.
 
-### Level 2 – Incentivised Participation ($420K / ₳525K)
+### Level 2 – Incentivised Participation ($450K / ₳562.5K)
 
 (level 1 costs + ₳150k at 0.8)
 
@@ -80,7 +80,7 @@ Enables open contribution:
 * Allows external sponsorship of specific roadmap features.
 * Supports GovTool’s organic, community-led development.
 
-### Level 3 – Pillar Development & Active Maintenance ($600K–$930K / ₳750K–₳1.116M)
+### Level 3 – Pillar Development & Active Maintenance ($690K–$960K / ₳862.5K–₳1.2M)
 
 (level 1 costs + level 2 costs + active development and maintenance costs of the pillars // the costs varies depending on which and how many pillars are selected)
 
