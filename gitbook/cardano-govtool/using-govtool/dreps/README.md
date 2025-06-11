@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # DReps
 
-[Delegated Representatives (DReps) ](https://docs.sanchogov.tools/faqs/what-is-a-drep) are ADA holders who registered On-Chain to allow other members of the community to delegate their voting power to them, so that they can vote on their behalf. They are are like 'parlimentary representatives' in the Governance system.
+DReps (Delegated Representatives) are ADA holders who registered On-Chain to allow other members of the community to delegate their voting power to them, so that they can vote on their behalf. They are are like 'parlimentary representatives' in the Governance system.
 
-Any ADA holder can become a DRep. They simply need to register on GovTool (or other platform). [How to become a DRep](https://docs.sanchogov.tools/how-to-use-the-govtool/using-govtool/register-as-a-drep)
+Any ADA holder can become a DRep. They simply need to register on GovTool (or other platform).
 
 DReps are defined by [CIP-1694](https://www.1694.io/). They can:
 
