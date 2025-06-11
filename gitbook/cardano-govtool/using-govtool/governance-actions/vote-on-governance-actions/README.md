@@ -53,11 +53,8 @@ To be able to vote, you will need to connect your wallet to GovTool, and registe
 
 
     <figure><img src="../../../../.gitbook/assets/FArtboard Copy 9.png" alt=""><figcaption></figcaption></figure>
-7.  **Vote fully submitted**\
-    Once the transaction it's completed, the page will refresh automatically. You have now voted on this Governance Action.\
-
-
-    <div align="left"><figure><img src="broken-reference" alt=""><figcaption><p>Sign transaction</p></figcaption></figure></div>
+7. **Vote fully submitted**\
+   Once the transaction it's completed, the page will refresh automatically. You have now voted on this Governance Action.
 
 
 
