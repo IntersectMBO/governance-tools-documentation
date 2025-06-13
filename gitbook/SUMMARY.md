@@ -4,9 +4,11 @@
 
 * [⚠️ GovTool Maintenance Ending Soon](README.md)
   * [The future of GovTool: Why it matters and what comes next](important-updates/govtool-maintenance-ending-soon/the-future-of-govtool-why-it-matters-and-what-comes-next.md)
-  * [Updated Govtool Budget Proposal - short version](important-updates/govtool-maintenance-ending-soon/updated-govtool-budget-proposal-short-version/README.md)
-    * [Updated Govtool Budget Proposal - long version](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp)
-    * [Budget Proposal FAQs](important-updates/govtool-maintenance-ending-soon/updated-govtool-budget-proposal-short-version/budget-proposal-faqs.md)
+  * [Updated Budget Proposal](important-updates/govtool-maintenance-ending-soon/updated-budget-proposal/README.md)
+    * [Updated Govtool Budget Proposal - short version](important-updates/govtool-maintenance-ending-soon/updated-budget-proposal/updated-govtool-budget-proposal-short-version.md)
+    * [Updated Govtool Budget Proposal - long version google doc](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp)
+    * [Budget Proposal FAQs](important-updates/govtool-maintenance-ending-soon/updated-budget-proposal/budget-proposal-faqs.md)
+    * [Updated Govtool Budget Proposal - long version](important-updates/govtool-maintenance-ending-soon/updated-budget-proposal/updated-govtool-budget-proposal-long-version.md)
   * [GovTool - a breakdown of the costs so far](important-updates/govtool-maintenance-ending-soon/govtool-a-breakdown-of-the-costs-so-far.md)
 
 ## overview
