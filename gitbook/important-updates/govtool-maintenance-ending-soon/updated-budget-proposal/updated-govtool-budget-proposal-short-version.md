@@ -10,6 +10,10 @@ description: This is a short and concise version of a longer more detailed versi
 👉🏻 You can read, comment and provide feedback on the full detailed proposal [here](https://docs.google.com/document/d/15L7uA2PWeOBuQCnoGg0ZB35acvxreJ2QCMAkt9X8o1E/edit?tab=t.4qjaum32z5qp) 👈
 {% endhint %}
 
+{% hint style="info" %}
+You can listen to the key details of this proposal in [this podcast](https://drive.google.com/file/d/1HVtw7qYNDUNp577Rz2rTM8JxacvXZMD3/view?usp=sharing)
+{% endhint %}
+
 ## What are the key differences with the original proposal
 
 * More detailed breakdown of costs
