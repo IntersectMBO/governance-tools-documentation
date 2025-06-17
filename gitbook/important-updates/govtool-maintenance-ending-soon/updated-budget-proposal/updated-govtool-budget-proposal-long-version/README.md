@@ -139,12 +139,13 @@ Since full governance came live with Plomin upgrade in September 2024, the <mark
 
 **Govtool’s open APIs have enabled multiple community builders** to provide value, such as:
 
-* [Ekklesia](https://2025budget.intersectmbo.org/)
-* [https://cardanobudget.com/](https://cardanobudget.com/)
-* [https://www.1694.io/en](https://www.1694.io/en)
-* [https://tempo.vote/](https://tempo.vote/)
-* [https://governancespace.com/en-us](https://governancespace.com/en-us)
-* [https://budget.cardano.africa/](https://budget.cardano.africa/)
+* [2025 Cardano Budget Reconciliation](https://2025budget.intersectmbo.org/) - Ekklesia - Adam Dean, Mad Orkestra
+* [Cardano Budget](https://cardanobudget.com/) - Tony | Thanh
+* [1694.io](http://1694.io/) - Darlington Wleh (Lido Nation)
+* [Tempo](https://tempo.vote/) - Binh Mal
+* [Governance Space](https://governancespace.com/en-us) - Otavio Lima
+* [Cardano Budget Analytics](https://budget.cardano.africa/) - Dan Baruka
+* [1694.tools](https://1694-tools.vercel.app/) - Unpopular El
 
 
 
