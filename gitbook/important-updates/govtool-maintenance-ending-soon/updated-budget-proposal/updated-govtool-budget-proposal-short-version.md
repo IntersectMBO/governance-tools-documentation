@@ -74,9 +74,11 @@ Covers minimum operational costs:
 * Core maintenance team (1 FTE QA and 1 FTE full-stack developer, split across 4 contributors to avoid downtime).
 * Ensures GovTool stays online, secure, and functional, but without guaranteed new features.
 
-### Level 2 – Incentivised Participation ($450K / ₳562.5K)
+### Level 2 – Incentivised Participation ($530K / ₳662.5K)
 
-(level 1 costs + ₳150k at 0.8)
+* All in Level 1
+* **₳150,000** to be allocated organically via direct contribution on the repos
+* **₳100,000** to be allocated to other open source governance tools that provide new and better ways to participate in Cardano Governance leveraging (and where possible expanding) Govtool code or Govtool APIs
 
 Enables open contribution:
 
@@ -84,7 +86,7 @@ Enables open contribution:
 * Allows external sponsorship of specific roadmap features.
 * Supports GovTool’s organic, community-led development.
 
-### Level 3 – Pillar Development & Active Maintenance ($690K–$960K / ₳862.5K–₳1.2M)
+### Level 3 – Pillar Development & Active Maintenance ($920K / ₳1.15M)
 
 (level 1 costs + level 2 costs + active development and maintenance costs of the pillars // the costs varies depending on which and how many pillars are selected)
 
