@@ -142,7 +142,7 @@ Since full governance came live with Plomin upgrade in September 2024, the <mark
 * [2025 Cardano Budget Reconciliation](https://2025budget.intersectmbo.org/) - Ekklesia - Adam Dean, Mad Orkestra
 * [Cardano Budget](https://cardanobudget.com/) - Tony | Thanh
 * [1694.io](http://1694.io/) - Darlington Wleh (Lido Nation)
-* [Tempo](https://tempo.vote/) - Binh Mal
+* [Tempo.vote](https://tempo.vote/) - Binh Mal
 * [Governance Space](https://governancespace.com/en-us) - Otavio Lima
 * [Cardano Budget Analytics](https://budget.cardano.africa/) - Dan Baruka
 * [1694.tools](https://1694-tools.vercel.app/) - Unpopular El

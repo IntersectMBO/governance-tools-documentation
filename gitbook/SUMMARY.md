@@ -19,6 +19,7 @@
 * [What is Cardano GovTool?](overview/what-is-cardano-govtool.md)
 * [What is the Constitutional Committee Portal?](overview/what-is-the-constitutional-committee-portal.md)
 * [Community Governance Tools](overview/community-governance-tools.md)
+* [Cardano Govtool Consortium](overview/cardano-govtool-consortium.md)
 
 ## CARDANO GovTool
 
