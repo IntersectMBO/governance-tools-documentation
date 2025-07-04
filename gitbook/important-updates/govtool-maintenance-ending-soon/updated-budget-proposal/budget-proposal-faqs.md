@@ -168,3 +168,32 @@ So, in relation to effort and funding:
 * To support key updates to keep it relevant to the ever evolving Cardano governance, and so keep an foundational tool for participation, level 2 or level 3 are funding needed, depending on the speed of development the community expects. (If community feels Cardano's governance can remain easy to participate to, open and fair, only relying on privately owned tools, then no level of the proposal should be funded.)
 
 </details>
+
+<details>
+
+<summary>what's in the roadmap</summary>
+
+[https://x.com/cardano\_govtool/status/1940814666482983085](https://x.com/cardano_govtool/status/1940814666482983085)
+
+You can see key planned (as well as delivered) initiatives here [https://tinyurl.com/4275j7w4](https://t.co/msEkcwvj5i). Important also to note that Govtool roadmap is directly defined by the Cardano community, so subject to change and evolution, so the best place to check what's coming next is the community backlog [https://tinyurl.com/dt84eyek](https://t.co/zbmLzWicEV) and the community discussion (recently started to make it easier to define direction) [https://tinyurl.com/34fs6nz3](https://t.co/KX5OroIeX1)
+
+</details>
+
+<details>
+
+<summary>how will the incentives be distirbuted</summary>
+
+As mentioned in the proposal the incentives of level 2 (₳ 250k) will be allocated via platforms like Andamio following existing open-source bounty processes, where a task is defined and if completed, and then approved and merged, the reward can be paid (in this case it will be done on-chain).\
+All this is directed by the community via the Governance tools working group
+
+</details>
+
+<details>
+
+<summary>the hosting costs seem high</summary>
+
+[https://x.com/cardano\_govtool/status/1940814666482983085](https://x.com/cardano_govtool/status/1940814666482983085)
+
+High level there are costs of 0.25 FTE to manage that process (highly complex) and costs to run Dev, QA environments for each of the applications (5) and Preview, PreProd and Mainnet production environments (Keeping Govtool one of the few places where users can interact easily with governance also on preview and preprod). The full breakdown of the devOps costs can be found in the proposal with details down to the individual AWS service, you can check here [https://tinyurl.com/5c69eczn](https://t.co/Myu25O6jP6) and here [https://tinyurl.com/ms4yfxjk](https://t.co/sps9uY4B3J)
+
+</details>
