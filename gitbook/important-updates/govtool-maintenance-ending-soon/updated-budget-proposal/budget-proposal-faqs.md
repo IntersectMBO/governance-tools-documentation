@@ -202,6 +202,8 @@ High level there are costs of 0.25 FTE to manage that process (highly complex) a
 
 <summary>if this Budget info action is approved how will funds delivery be tracked</summary>
 
+[https://x.com/cardano\_govtool/status/1941106529857368094](https://x.com/cardano_govtool/status/1941106529857368094)
+
 The Cardano Govtool budget proposal, if approved and then funded via the treasury action, will be handled via the smart contract framework Intersect will use for the 39 treasury actions that will soon be submitted on-chain.&#x20;
 
 The community incentives will be distributed transparently on-chain with platforms like Andamio.&#x20;
