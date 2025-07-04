@@ -197,3 +197,19 @@ All this is directed by the community via the Governance tools working group
 High level there are costs of 0.25 FTE to manage that process (highly complex) and costs to run Dev, QA environments for each of the applications (5) and Preview, PreProd and Mainnet production environments (Keeping Govtool one of the few places where users can interact easily with governance also on preview and preprod). The full breakdown of the devOps costs can be found in the proposal with details down to the individual AWS service, you can check here [https://tinyurl.com/5c69eczn](https://t.co/Myu25O6jP6) and here [https://tinyurl.com/ms4yfxjk](https://t.co/sps9uY4B3J)
 
 </details>
+
+<details>
+
+<summary>if this Budget info action is approved how will funds delivery be tracked</summary>
+
+The Cardano Govtool budget proposal, if approved and then funded via the treasury action, will be handled via the smart contract framework Intersect will use for the 39 treasury actions that will soon be submitted on-chain.&#x20;
+
+The community incentives will be distributed transparently on-chain with platforms like Andamio.&#x20;
+
+Even more, along side that on-chain transparency, Govtool development is open and transparent for everyone to check and contribute to:&#x20;
+
+* Govtool open repos [https://docs.gov.tools/participate-in-development/governance-tools-repositories](https://t.co/wvOshTC1EW)&#x20;
+* Govtool discussion [https://github.com/IntersectMBO/govtool/discussions](https://t.co/C1N9Dcu8QK)&#x20;
+* Govtool open backlog [https://github.com/orgs/IntersectMBO/projects/34](https://t.co/YyGPSFjBgM)
+
+</details>
