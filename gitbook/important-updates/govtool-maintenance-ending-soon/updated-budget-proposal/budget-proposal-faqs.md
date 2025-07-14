@@ -215,3 +215,40 @@ Even more, along side that on-chain transparency, Govtool development is open an
 * Govtool open backlog [https://github.com/orgs/IntersectMBO/projects/34](https://t.co/YyGPSFjBgM)
 
 </details>
+
+<details>
+
+<summary>How will the Level 2 incentives be allocated and what can the community expect from those?</summary>
+
+[https://x.com/cardano\_govtool/status/1944833643429368055](https://x.com/cardano_govtool/status/1944833643429368055)
+
+The incentives in Level 2 are divided in 2 parts.
+
+The first part is ₳150k. This has been proposed to incentivise more contribution to the Govtool development, especially from individuals, with the goal to make Govtool stronger and more resilient as an open-source project.\
+How will it be allocated: As mentioned in the proposal, these incentives will be allocated via platforms like Andamio, following existing open-source bounty processes, where a task is defined and if completed, and then approved and merged, the reward can be paid (in this case it will be done on-chain). All this is directed by the community via the Governance tools working group. Prioritisation of task will still remain consistent to the overall process that uses the open backlog and open discussions. (this model will also open a process for sponsored features)
+
+The second part is ₳100k. This has been expanded during the open consultation period when the budget proposal got refined. Govtool has been acting as a foundational tool for governance participation for end users as well as key infrastructure for other tools.\
+The proposal behind these incentives is to encourage the creation of other tools that can provide new and better ways to participate in governance using Govtool APIs or open-source code.\
+How will it be allocated: These provides new ways for the end-user to interact with governance while brining new developers to the open-source project and improving the code itself.\
+In this case there will be either defined requirements that have already been requested and prioritised by the community, in this case, like above, a task will be opened and if completed a reward will be paid, OR there could be a proposal set forward by a developer, which will then be prioritised (as above) and if completed will get rewarded.
+
+So in short, for both proposed incentives, there is the common step of collecting community input about the needs, if the need has support, it will be refined and become a task (more specifically a github issue) and then that task will be 'advertised' on platforms like Andamio (probably Andamio itself) where anyone can pick them up, and if successfully completed, get rewarded, tracking the all process transparently on-chain.
+
+</details>
+
+<details>
+
+<summary>Why do we need Proposal discusson pillar and what's next for the budget proposal pillar?</summary>
+
+[https://x.com/cardano\_govtool/status/1944833643429368055](https://x.com/cardano_govtool/status/1944833643429368055)
+
+Whilst all pillars cover an important part of the governance process, some pillars have definitely more importance in the process than others, that is also why they have more or less resources budgeted for.
+
+Delegation, Voting and Outcomes definitely do cover the bulk of the participation on-chain and they are critical.
+
+Proposal discussion pillar (which might need actually a better name) is the pillar where anyone can draft a governance action in a fully guided process, discuss and get feedback (as the name suggests) and, more importantly, if the proposer is ready, it allows to submit the governance action directly to chain with checked metadata (so probably one of the safest and easiest option for anyone to submit their governance actions on-chain). This pillar, paired with co-proposing options to split the deposit cost, will further lower the barriers to participate in governance.\
+Outside of these, also in the preview and preprod environments, we see heavy use of this pillar to test governance actions metadata as well as an easy way to get feedback on a governance action proposal before investing 100k deposit.
+
+The Budget proposal pillar has enabled the first budget process to progress this year. However, being the reflection of an interim process (also developed to support community needs in 9 business days) it will need refactoring. The goal there will be to facilitate and push forward the draft CIP to create a common standard for pre-governance polling, so that they are fully handled on-chain in a common way, allowing every tool to build an experience for the end-user to participate while submitting the votes to the same source of truth.
+
+</details>
