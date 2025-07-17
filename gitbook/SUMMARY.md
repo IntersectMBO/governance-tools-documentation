@@ -69,6 +69,7 @@
   * [What is a DRep?](cardano-govtool/faqs/what-is-a-drep.md)
   * [What is Voting Power?](cardano-govtool/faqs/what-is-voting-power.md)
   * [Bootstrapping phase](cardano-govtool/faqs/bootstrapping-phase.md)
+  * [How was the author of Withdraw ₳45,217 for MLabs Core..." GA Verified?](cardano-govtool/faqs/how-was-the-author-of-withdraw-ara45-217-for-mlabs-core...-ga-verified.md)
 
 ## Constitutional Committee portal
 
