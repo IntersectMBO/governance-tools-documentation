@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Motion of No Confidence
 
 ### A motion to create a _state of no-confidence_ in the current Constitutional Committee.&#x20;

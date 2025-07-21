@@ -2,17 +2,6 @@
 description: >-
   How to store information off-chain for Governance Actions, DRep registration,
   and Voting.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Storing Information offline

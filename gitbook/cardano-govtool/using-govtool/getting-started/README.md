@@ -2,17 +2,6 @@
 description: >-
   This is an overview of the process for installing and using the GovTool. Each
   step will be explained in detail in further pages.
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Getting started

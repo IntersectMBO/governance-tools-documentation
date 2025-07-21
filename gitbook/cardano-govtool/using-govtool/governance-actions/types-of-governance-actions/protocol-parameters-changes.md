@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Protocol Parameters changes
 
 ### Any change to **one or more** updatable protocol parameters, excluding changes to major protocol versions ('hard forks')

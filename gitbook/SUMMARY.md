@@ -88,9 +88,10 @@
 
 * [Overview](participate-in-development/overview.md)
 * [How to participate](participate-in-development/how-to-participate.md)
-* [Proposal Pillar API](participate-in-development/proposal-pillar-api/README.md)
-  * [Access](participate-in-development/proposal-pillar-api/access.md)
 * [Governance Tools Repositories](participate-in-development/governance-tools-repositories.md)
+* [Govtool APIs](participate-in-development/govtool-apis/README.md)
+  * [Proposal Pillar API](participate-in-development/govtool-apis/proposal-pillar-api/README.md)
+    * [Access](participate-in-development/govtool-apis/proposal-pillar-api/access.md)
 
 ## Legal
 

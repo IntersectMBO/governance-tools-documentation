@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Direct Voting
 
 Direct Voting is where any ADA holder can vote on any Governance Action. To be eligible to vote, you must register:

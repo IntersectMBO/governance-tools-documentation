@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Update Committee or Threshold or term limits
 
 ### Changes to the members of the constitutional committee and/or to its signature threshold and/or terms

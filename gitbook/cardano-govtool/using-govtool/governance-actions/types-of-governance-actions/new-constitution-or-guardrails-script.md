@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # New Constitution or Guardrails Script
 
 ### A modification to the Constitution or Guardrails Script, recorded as on-chain hashes

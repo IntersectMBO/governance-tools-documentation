@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Governance Actions
 
 Governance Actions are the core elements that make up governance on the blockchain. Anyone that has ADA in a wallet can propose a Governace Action. To submit a Governance Action, the submitter  pays a refundable deposit of 100,000 Ada. The deposit will be returned automatically back to the submitter's wallet upon completion of the Voting period.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Hard Fork Initiation
 
 ### A non-backward compatible upgrade of the network, which requires a prior software upgrade

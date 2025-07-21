@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Treasury Withdrawal
 
 ### Treasury withdrawals are sub-categorised into small, medium, or large and are determined by the amount of Lovelace to be withdrawn.
