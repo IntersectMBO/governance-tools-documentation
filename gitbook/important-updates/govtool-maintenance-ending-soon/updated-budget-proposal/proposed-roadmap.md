@@ -1,6 +1,6 @@
 # Proposed roadmap
 
-Cardnao Govtool direction and roadmap is community driven, both directly, via feedback and direct contribution, and more simply follows community’s priorities over time as governance evolves.&#x20;
+Cardano Govtool direction and roadmap is community driven, both directly, via feedback and direct contribution, and more simply follows community’s priorities over time as governance evolves.&#x20;
 
 You can see key planned (as well as delivered) initiatives here[ https://tinyurl.com/4275j7w4](https://t.co/msEkcwvj5i).&#x20;
 
