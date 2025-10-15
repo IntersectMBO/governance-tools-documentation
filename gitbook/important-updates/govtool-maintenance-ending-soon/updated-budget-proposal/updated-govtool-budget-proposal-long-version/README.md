@@ -258,9 +258,9 @@ The active development and maintenance will be awarded as contracts directly by 
 \
 Pillars that can be added to this are:
 
-1. Proposals Pillar (1 FTE)
-2. Delegation Pillar (1.5 FTE)
-3. Voting Pillar (1.5 FTE)
+1. Proposals Pillar (0.75 FTE)
+2. Delegation Pillar (1 FTE)
+3. Voting Pillar (1.25 FTE)
 4. Outcomes Pillar (0.75 FTE)
 5. Budget discussion Pillar (0.5 FTE)
 
@@ -347,9 +347,9 @@ Depending on the level of funding chosen by the community the amount of resource
    This will provide exponentially more **individual contributors** and so resources&#x20;
 3. Level 3 - Pillar active development and maintenance\
    End-to-end and automated testings _1 FTE_ (if this level is chosen, the 1 FTE mentioned in the foundational level can either be removed or added to this effort)
-   1. **Proposals Pillar** _1 FTE_
-   2. **Delegation Pillar** _1.5 FTE_
-   3. **Voting Pillar** _1.5 FTE_
+   1. **Proposals Pillar** _0.75 FTE_
+   2. **Delegation Pillar** _1 FTE_
+   3. **Voting Pillar** _1.25 FTE_
    4. **Outcomes Pillar** _0.75 FTE_
    5. **Budget discussion Pillar** _0.5 FTE_
 
@@ -373,7 +373,7 @@ The ongoing development and maintenance of GovTool requires a reliable and capab
 
 ### Ada Amount
 
-**₳1,050,500**
+**₳1,150,000**
 
 ### Amount in preferred currency
 
@@ -433,30 +433,30 @@ Level 3 cost breakdown:
 2. All in Level 2
 3. Options:
    1. Active development and maintenance of all pillars:\
-      Level 1 and 2 ($210k) + Overall end-to-end testing ($120k) + All the pillars (Proposals $120k + Delegation $180k + Voting $180k + Outcomes $90k + Budget discussion $60k)  → **$920,000** for 12 months (these removes the need of repo maintainers so the $240k cost is absorbed)
+      Level 1 and 2 ($290k) + Overall end-to-end testing ($120k) + All the pillars (Proposals $90k + Delegation $120k + Voting $150k + Outcomes $90k + Budget discussion $60k)  → **$920,000** for 12 months (these removes the need of repo maintainers so the $240k cost is absorbed)
    2. Only one or a combination of different pillars:\
       (Any pillar combination is possible)
-      1. Level 1 and 2 ($530k) + Overall end-to-end testing ($120k) + Proposals pillar ($120k) → **$690,000** for 12 months\
+      1. Level 1 and 2 ($530k) + Overall end-to-end testing ($120k) + Proposals pillar ($90k) → **$740,000** for 12 months\
          \
-         <sup>_Proposals Pillar  - rendered as part of Govtool experience (1FTE - $120,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
-         \
-
-      2. Level 1 and 2 ($530k) + Overall end-to-end testing + Delegation Pillar ($180k) → **$750,000** for 12 months\
-         \
-         <sup>_Delegation Pillar  - rendered as part of Govtool experience (1.5 FTE - $180,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. This application connects directly to the chain, requiring engineers with more niche skills. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
+         <sup>_Proposals Pillar  - rendered as part of Govtool experience (0.75FTE - $90,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
          \
 
-      3. Level 1 and 2 ($530k) + Overall end-to-end testing + Voting Pillar ($180k) → **$750,000** for 12 months\
+      2. Level 1 and 2 ($530k) + Overall end-to-end testing ($120k) + Delegation Pillar ($120k) → **$770,000** for 12 months\
          \
-         <sup>_Voting Pillar - rendered as part of Govtool experience (1.5FTE - $180,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. This application connects directly to the chain, requiring engineers with more niche skills. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
+         <sup>_Delegation Pillar  - rendered as part of Govtool experience (1 FTE - $120,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. This application connects directly to the chain, requiring engineers with more niche skills. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
          \
 
-      4. Level 1 and 2 ($530k)+ Overall end-to-end testing + Outcomes Pillar ($90k) → **$660,000** for 12 months\
+      3. Level 1 and 2 ($530k) + Overall end-to-end testing ($120k) + Voting Pillar ($150k) → **$800,000** for 12 months\
+         \
+         <sup>_Voting Pillar - rendered as part of Govtool experience (1.25FTE - $150,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. This application connects directly to the chain, requiring engineers with more niche skills. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
+         \
+
+      4. Level 1 and 2 ($530k)+ Overall end-to-end testing ($120k) + Outcomes Pillar ($90k) → **$740,000** for 12 months\
          \
          <sup>_Outcomes Pillar - rendered as part of Govtool experience (0.75 FTE - $90,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. This application connects directly to the chain, requiring engineers with more niche skills. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>\
          \
 
-      5. Level 1 and 2 ($530k)+ Overall end-to-end testing + Budget discussion Pillar ($60k) → **$630,000** for 12 months\
+      5. Level 1 and 2 ($530k)+ Overall end-to-end testing ($120k) + Budget discussion Pillar ($60k) → **$710,000** for 12 months\
          \
          <sup>_Budget discussion Pillar - rendered as part of Govtool experience (0.5 FTE - $60,000)_</sup>\ <sup>_This covers the costs of software engineers, QA engineers, and DevOps support for the environments related to this application. They are responsible for maintaining the application, making sure it's always operational, they need to support and make easier external contribution as well as add new features defined in the community roadmap_</sup>
 
