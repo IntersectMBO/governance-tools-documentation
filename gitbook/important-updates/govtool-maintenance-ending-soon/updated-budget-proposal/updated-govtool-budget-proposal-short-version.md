@@ -93,9 +93,9 @@ Enables open contribution:
 Accelerates growth and guarantees monthly updates:
 
 * Funds full-time development per functional pillar:
-  * Proposals Pillar (1 FTE)
-  * Delegation Pillar (1.5 FTE)
-  * Voting Pillar (1.5 FTE)
+  * Proposals Pillar (0.75 FTE)
+  * Delegation Pillar (1 FTE)
+  * Voting Pillar (1.25 FTE)
   * Outcomes Pillar (0.75 FTE)
   * Budget Discussions Pillar (0.5 FTE)
 * Adds dedicated end-to-end testing (1 FTE) to ensure reliability.

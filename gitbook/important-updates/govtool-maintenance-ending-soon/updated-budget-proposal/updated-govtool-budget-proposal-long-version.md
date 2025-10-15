@@ -7,7 +7,7 @@ description: >-
 # Updated Govtool Budget Proposal - long version
 
 {% hint style="info" %}
-you can read the short version [here](../updated-govtool-budget-proposal-short-version.md) or you can listen to the key details of this proposal in [this podcast](https://drive.google.com/file/d/1HVtw7qYNDUNp577Rz2rTM8JxacvXZMD3/view?usp=sharing)
+you can read the short version [here](updated-govtool-budget-proposal-short-version.md) or you can listen to the key details of this proposal in [this podcast](https://drive.google.com/file/d/1HVtw7qYNDUNp577Rz2rTM8JxacvXZMD3/view?usp=sharing)
 {% endhint %}
 
 Budget category: Governance Support
